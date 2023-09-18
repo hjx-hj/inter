@@ -1,0 +1,18 @@
+*{
+    margin:0;
+    padding:0;
+}
+#huang{
+    width:360px;
+    height:180px;
+    background-color:black;
+     border-top-left-radius:55px;
+        border-top-right-radius:55px;
+        border-bottom-left-radius:55px;
+        border-bottom-right-radius:55px;
+   
+    border:40px solid;
+    border-color:blue;
+    margin:auto;
+    margin-top:20px;
+}

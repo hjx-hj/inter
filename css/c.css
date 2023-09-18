@@ -1,0 +1,33 @@
+*{
+    margin:0;
+    padding:0;
+}
+#jia{
+    width:800px;
+    height:500px;
+    margin:auto;
+    background-color:blue;
+    border-top-left-radius:40px;
+    border-top-right-radius:40px;
+    border-bottom-left-radius:40px;
+    border-bottom-right-radius:40px;
+    margin-top:10px;
+}
+#j{
+    width:500px;
+    height:200px;
+    background-color:wheat;
+    float: left;
+    margin-left:130px;
+    margin-top:50px;
+    margin-bottom:0;
+}
+#j1{
+    width:500px;
+    height:200px;
+    background-color:white;
+    float:left;
+	margin-left:130px;
+  
+    margin-bottom:0;
+}
